@@ -1,0 +1,15 @@
+node_modules/
+frontend/dist/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+data/*.sqlite3
+data/*.sqlite3-shm
+data/*.sqlite3-wal
+.DS_Store
+data/ml-latest-small/
+*.zip
